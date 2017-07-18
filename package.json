@@ -1,10 +1,10 @@
 {
   "name": "atom-touchbar",
   "main": "./lib/atom-touchbar",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [],
-  "repository": "https://github.com/atom/atom-touchbar",
+  "repository": "https://github.com/tgds/atom-touchbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
