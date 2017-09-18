@@ -2,7 +2,7 @@
   "name": "atom-touchbar",
   "main": "./lib/atom-touchbar",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Adds a couple of useful buttons to the MacBook TouchBar - shortcuts to command pallette, search, linter, git and comment/uncomment actions.",
   "keywords": [],
   "repository": "https://github.com/tgds/atom-touchbar",
   "license": "MIT",
