@@ -1,12 +1,12 @@
 {
   "name": "atom-touchbar",
   "main": "./lib/atom-touchbar",
-  "version": "0.1.0",
-  "description": "A short description of your package",
+  "version": "0.2.0",
+  "description": "Adds MacBook touchbar to Atom",
   "keywords": [],
   "repository": "https://github.com/tgds/atom-touchbar",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.19.0 <2.0.0"
   }
 }
