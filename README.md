@@ -3,6 +3,8 @@
 An Atom package adding a couple of useful buttons to MacBook TouchBar.
 Non-customizable. Just a basic quick implementation.
 
+![Touchbar Screenshot](https://i.imgur.com/cZlKXrL.png)
+
 ## Features
 * Toggle command palette
 * Toggle Fuzzy Finder for project and current buffer
