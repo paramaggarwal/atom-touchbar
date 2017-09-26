@@ -17,4 +17,4 @@ Non-customizable. Just a basic quick implementation.
 * Make customizable 
 
 ## Requirements
-* Atom 1.19beta
+* Atom 1.20 and later
